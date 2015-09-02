@@ -1,3 +1,3 @@
 /*
- * Boot file for the C.H.I.P. board
+ * Boot file for the Raspberry Pi board
  */
